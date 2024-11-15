@@ -1,16 +1,22 @@
+<<<<<<< HEAD
+=======
 <<<<<<< Updated upstream
 UPD:Три слова это два 
 CONFL
 =======
 <<<<<<< HEAD
+>>>>>>> VR-ISPEU-SurGer/main
 UPD:Три слова это два слова
 <<<<<<< HEAD
 Конфликт
 =======
 конфликт
 >>>>>>> bcdff7ae33e25d217850ddcb1ad086d3a014ffb6
+<<<<<<< HEAD
+=======
 =======
 UPD:Три слова это два 
 CONFL
 >>>>>>> main
 >>>>>>> Stashed changes
+>>>>>>> VR-ISPEU-SurGer/main
