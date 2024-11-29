@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\bin\Debug\net8.0\Фигуры.exe
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\bin\Debug\net8.0\Фигуры.deps.json
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\bin\Debug\net8.0\Фигуры.runtimeconfig.json
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\bin\Debug\net8.0\Фигуры.dll
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\bin\Debug\net8.0\Фигуры.pdb
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.dll
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\refint\Фигуры.dll
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.pdb
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\Фигуры.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Фигуры\Фигуры\obj\Debug\net8.0\ref\Фигуры.dll
