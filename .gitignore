@@ -1,0 +1,66 @@
+# Build Folders (загружаемые и кэшируемые артефакты сборки)
+bin/
+obj/
+out/
+
+# User-specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated Files
+*.Generated.cs
+*.g.cs
+*.g.i.cs
+
+# Package Directories (нужно для NuGet)
+*.nupkg
+packages/
+
+# Visual Studio Working Files
+.vscode/
+.vs/
+
+# Debug and Crash Files
+*.log
+*.tlog
+*.dmp
+
+# IDE Settings
+*.DotSettings.user
+*.DotSettings
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Node.js dependencies
+node_modules/
+
+# Python Environment Files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Mac-specific Files
+.DS_Store
+
+# Backup Files
+*.bak
+~$*
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+
+# Logs
+*.log
+*.svclog
